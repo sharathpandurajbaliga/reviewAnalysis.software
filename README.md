@@ -1,6 +1,11 @@
 # reviewAnalysis.software
+
+## Folders Structure
+
+![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/Folders.jpeg)
+
 ## Architecture
-![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/workflow.PNG)
+![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/workflow.jpeg)
 
 ## Usage (Run the following commands step by step):
 1. python ./main.py 
