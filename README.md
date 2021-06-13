@@ -1,9 +1,8 @@
+# reviewAnalysis.software
 ## Usage (Run the following commands step by step):
 1. python ./main.py 
 2. python ./report_generation/report.py
 3. ![Image_traffic](https://github.com/ShaminiKoravuna/Traffic_Signs_Recognition/blob/main/output/1.jpg)
-
-# reviewAnalysis.software
 
 ## Folder Stucture
 ## Process Overview:
