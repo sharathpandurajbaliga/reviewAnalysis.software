@@ -4,16 +4,15 @@
 ## Architecture
 ![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/workflow.jpeg)
 
-
-## Folders Structure
-
-![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/Folders.jpeg)
-
 ## Usage (Run the following commands step by step):
 1. python ./main.py 
 2. python ./report_generation/report.py
 
 ## Folder Stucture
+
+![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/Folders.jpeg)
+
+
 ## Process Overview:
 ### 1. main.py:
    On running main.py, following things are executed:
