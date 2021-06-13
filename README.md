@@ -20,14 +20,24 @@
 #### a. Fetch the reviews
    Scraping reviews for a product from Amazon.com is been implemented and it is readily usable. Please use **reviewAnalysis.software/urls.txt** to mention the review path
       An example Review path is already mentioned. If you want to use your own path for the product, please do the following to get the URL
+      
       - Search your product on Amazon.com
+      
 ![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/1.PNG)
+
       - Click on 'Ratings'
+      
 ![Images](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/2.PNG)
+
       - Scroll to the bottom and click on 'See All Reviews' as shown in the screenshot below  --------> 
+      
 ![Images](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/3.PNG)
+
       - Kindly copy the Url and paste it into **reviewAnalysis.software/urls.txt**
+      
 ![Images](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/4.PNG)
+
+
 
 #### b. Split each review statement into smaller contexts
    NLTK tokenizer is used to split into smaller contexts
@@ -73,8 +83,11 @@ eg : ./report_generation/report.py '01_Apr_2021' '10_May_2021'
 #### a. Word Cloud :
    1. A word cloud that suggests the keywords for the customer problems/ bug report is generated for the available review. 
    2. At the end of the process, a wordcloud is generated as ***WordCloud.png*** file at ***reviewAnalysis.software/reports*** folder
+   
   
 ![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/wordcloud.jpeg)
+
+
 
 #### b. Rating Analysis Plot :
    1. Mean rating for each day of the product is plotted, such that the business owner knows how people are liking/disliking his product on a period of time.
