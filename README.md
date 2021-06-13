@@ -1,5 +1,5 @@
 # reviewAnalysis.software
-##Architecture
+## Architecture
 ![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/workflow.PNG)
 
 ## Usage (Run the following commands step by step):
@@ -66,6 +66,7 @@ eg : ./report_generation/report.py '01_Apr_2021' '10_May_2021'
 #### a. Word Cloud :
    1. A word cloud that suggests the keywords for the customer problems/ bug report is generated for the available review. 
    2. At the end of the process, a wordcloud is generated as ***WordCloud.png*** file at ***reviewAnalysis.software/reports*** folder
+  
 ![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/wordcloud.jpg)
 
 #### b. Rating Analysis Plot :
