@@ -2,7 +2,7 @@
 ## Usage (Run the following commands step by step):
 1. python ./main.py 
 2. python ./report_generation/report.py
-3. ![Image_traffic](https://github.com/ShaminiKoravuna/Traffic_Signs_Recognition/blob/main/output/1.jpg)
+
 
 ## Folder Stucture
 ## Process Overview:
@@ -15,6 +15,7 @@
       - Click on 'Ratings'
       - Scroll to the bottom and click on 'See All Reviews' as shown in the screenshot below  --------> 
       Kindly copy the Url and paste it into **reviewAnalysis.software/urls.txt**
+      ![Image_traffic](https://github.com/ShaminiKoravuna/Traffic_Signs_Recognition/blob/main/output/1.jpg)
 #### b. Split each review statement into smaller contexts
    NLTK tokenizer is used to split into smaller contexts
 #### c. Classify each context into Bug or Feature Request or Other type
