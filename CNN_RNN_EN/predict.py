@@ -4,11 +4,11 @@ import json
 import shutil
 import pickle
 import logging
-import data_helper
+from CNN_RNN_EN import data_helper
 import numpy as np
 import pandas as pd
 import tensorflow as tf
-from text_cnn_rnn import TextCNNRNN
+from CNN_RNN_EN.text_cnn_rnn import TextCNNRNN
 
 logging.getLogger().setLevel(logging.INFO)
 
