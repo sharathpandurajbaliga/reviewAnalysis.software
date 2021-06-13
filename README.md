@@ -91,6 +91,7 @@ eg : ./report_generation/report.py '01_Apr_2021' '10_May_2021'
 #### b. Rating Analysis Plot :
    1. Mean rating for each day of the product is plotted, such that the business owner knows how people are liking/disliking his product on a period of time.
    2. At the end of the process, a plot with variations in the rating each day is ploted as ***RatingAnalysis.png*** file at ***reviewAnalysis.software/reports*** folder 
+The value 0 in the plot corresponds to no reviews for that particular day
 ![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/Review_Analysis.PNG)   
      
      
