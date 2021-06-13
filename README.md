@@ -67,7 +67,7 @@ eg : ./report_generation/report.py '01_Apr_2021' '10_May_2021'
    1. A word cloud that suggests the keywords for the customer problems/ bug report is generated for the available review. 
    2. At the end of the process, a wordcloud is generated as ***WordCloud.png*** file at ***reviewAnalysis.software/reports*** folder
   
-![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/wordcloud.jpg)
+![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/wordcloud.jpeg)
 
 #### b. Rating Analysis Plot :
    1. Mean rating for each day of the product is plotted, such that the business owner knows how people are liking/disliking his product on a period of time.
