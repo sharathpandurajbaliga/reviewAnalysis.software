@@ -3,7 +3,6 @@
 1. python ./main.py 
 2. python ./report_generation/report.py
 
-
 ## Folder Stucture
 ## Process Overview:
 ### 1. main.py:
@@ -12,10 +11,14 @@
    Scraping reviews for a product from Amazon.com is been implemented and it is readily usable. Please use **reviewAnalysis.software/urls.txt** to mention the review path
       An example Review path is already mentioned. If you want to use your own path for the product, please do the following to get the URL
       - Search your product on Amazon.com
+![Image](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/1.PNG)
       - Click on 'Ratings'
+![Images](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/2.PNG)
       - Scroll to the bottom and click on 'See All Reviews' as shown in the screenshot below  --------> 
-      Kindly copy the Url and paste it into **reviewAnalysis.software/urls.txt**
-      ![Image_traffic](https://github.com/ShaminiKoravuna/Traffic_Signs_Recognition/blob/main/output/1.jpg)
+![Images](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/3.PNG)
+      - Kindly copy the Url and paste it into **reviewAnalysis.software/urls.txt**
+![Images](https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/4.PNG)
+
 #### b. Split each review statement into smaller contexts
    NLTK tokenizer is used to split into smaller contexts
 #### c. Classify each context into Bug or Feature Request or Other type
