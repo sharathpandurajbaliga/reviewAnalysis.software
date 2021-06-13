@@ -10,6 +10,7 @@
       Scraping reviews for a product from Amazon.com is been implemented and it is readily usable. Please use **reviewAnalysis.software/urls.txt** to mention the review path
       An example Review path is already mentioned. If you want to use your own path for the product, please do the following to get the URL
       - Search your product on Amazon.com
+      <p align="center"> <img src=" https://github.com/sharathpandurajbaliga/reviewAnalysis.software/blob/main/Images/1.PNG/></p> 
       - Click on 'Ratings'
       - Scroll to the bottom and click on 'See All Reviews' as shown in the screenshot below  --------> 
       Kindly copy the Url and paste it into **reviewAnalysis.software/urls.txt**
